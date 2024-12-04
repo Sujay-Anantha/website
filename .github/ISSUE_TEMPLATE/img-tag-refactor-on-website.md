@@ -10,7 +10,7 @@ assignees: ''
 ---
 
 ### Prerequisite
-1. Be an member of Hack for LA. (There are no fees to join.) If you have not joined yet, please follow the steps on our [Getting Started page](https://www.hackforla.org/getting-started) and attend an onboarding session.
+1. Be a member of Hack for LA. (There are no fees to join.) If you have not joined yet, please follow the steps on our [Getting Started page](https://www.hackforla.org/getting-started) and attend an onboarding session.
 2. Before you claim or start working on an issue, please make sure you have read our [How to Contribute to Hack for LA Guide](https://github.com/hackforla/website/blob/gh-pages/CONTRIBUTING.md).
 
 ### Overview
